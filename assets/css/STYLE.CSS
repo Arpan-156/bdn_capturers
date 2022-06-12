@@ -245,3 +245,97 @@ body {
   transform: scale(1);
   box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
 }
+
+
+
+
+
+
+
+.corona img {
+              padding-top: 50px;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+.corona .about_taital {
+    width: 60%;
+    float: left;
+    font-size: 40px;
+    font-weight: bold;
+    color: #151515;
+    padding-top: 30px;
+} 
+.corona .about_taital2 {
+  width: 60%;
+  float: left;
+  font-size: 40px;
+  font-weight: bold;
+  color: #151515;
+  
+} 
+
+.corona .about_text {
+    width: 80%;
+    float: left;
+    font-size: 16px;
+    color: #151515;
+    margin: 0px;
+} 
+
+.corona .read_bt {
+    width: 150px;
+    float: left;
+    margin-top: 30px;
+}
+
+.corona .read_bt a {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    background-color: crimson;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 40px;
+    text-transform: uppercase;
+}
+
+.corona .read_bt a:hover {
+    color: #ffffff;
+    background-color: darkgoldenrod;
+}
+
+#gtco-about,
+#gtco-practice-areas,
+#gtco-our-team,
+#gtco-contact {
+  padding: 7em 0;
+  clear: both;
+}
+
+
+#gtco-about .img-shadow img {
+  padding: 10px ;
+  margin-top: -10px;
+  width: 70%;
+}
+#gtco-about .heading {
+  position: relative;
+}
+#gtco-about .heading .subtle-text {
+  position: absolute;
+  bottom: -1.6em;
+  left: 0;
+  text-transform: uppercase;
+  font-size: 208px;
+  color: #F8F8F8;
+  font-weight: 900;
+  z-index: -1;
+}
+HR{
+  width: 200PX;
+  height: 20PX;
+  border: 0.5px
+}
+
